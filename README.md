@@ -6,4 +6,4 @@ Deploy: Netlify
 
 [Link a la App](https://carritodecomprascool.netlify.app/)
 
-![Captura de la App](./.readme-static/print.png)
+![Captura de la App](./.readme-static/print.jpg)
